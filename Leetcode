@@ -6,7 +6,7 @@ S.No    Problem Name                                                     Difficu
 2     Removing duplicates from sorted array                                Easy
 3     Merge two sorted list                                                Easy
 4     Palindrome number                                                    Easy
-5     Palindrome Number Easy
+5     Permutation ||                                                       Medium
 6     Convert sorted list to binary search tree                            Medium
 7     Add Binary                                                           Easy
 8     Spiral Matrix                                                        Medium
@@ -16,4 +16,4 @@ S.No    Problem Name                                                     Difficu
 12    Swap node in pairs                                                   Medium
 13    Add two numbers                                                      Medium
 14    Two sum                                                              Easy
-15    Count Monotonic Integers Easy
+15   
